@@ -1,0 +1,20 @@
+country: Singapore
+adults: 2Price: 1000.0
+Children: 3Price: 810.0
+Discount: 90.0
+Total Rate: $1810.0
+country: Singapore
+adults: 2Price: 1000.0
+Children: 3Price: 810.0
+Discount: 90.0
+Total Rate: $1810.0
+country: Singapore
+adults: 2Price: 1000.0
+Children: 3Price: 810.0
+Discount: 90.0
+Total Rate: $1810.0
+country: China
+adults: 2Price: 1400.0
+Children: 4Price: 2160.0
+Discount: 240.0
+Total Rate: $3560.0
